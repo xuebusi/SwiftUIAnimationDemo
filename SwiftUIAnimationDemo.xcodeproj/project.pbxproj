@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2BD5AD232C2E28D3006715F9 /* ImageCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BD5AD222C2E28D3006715F9 /* ImageCarousel.swift */; };
 		2BD5AD2B2C2E6F9D006715F9 /* ScrollViewPaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BD5AD2A2C2E6F9D006715F9 /* ScrollViewPaging.swift */; };
+		2BDDF3262C2E81D30054FD73 /* PhotoCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BDDF3252C2E81D30054FD73 /* PhotoCarousel.swift */; };
 		2BDF94B12C2D962400668514 /* SwiftUIAnimationDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BDF94B02C2D962400668514 /* SwiftUIAnimationDemoApp.swift */; };
 		2BDF94B32C2D962400668514 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BDF94B22C2D962400668514 /* ContentView.swift */; };
 		2BDF94B52C2D962500668514 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BDF94B42C2D962500668514 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		2BD5AD222C2E28D3006715F9 /* ImageCarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarousel.swift; sourceTree = "<group>"; };
 		2BD5AD2A2C2E6F9D006715F9 /* ScrollViewPaging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPaging.swift; sourceTree = "<group>"; };
+		2BDDF3252C2E81D30054FD73 /* PhotoCarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCarousel.swift; sourceTree = "<group>"; };
 		2BDF94AD2C2D962400668514 /* SwiftUIAnimationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BDF94B02C2D962400668514 /* SwiftUIAnimationDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimationDemoApp.swift; sourceTree = "<group>"; };
 		2BDF94B22C2D962400668514 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				2BDF94BE2C2D963600668514 /* MoonlitSwing.swift */,
 				2BD5AD222C2E28D3006715F9 /* ImageCarousel.swift */,
 				2BD5AD2A2C2E6F9D006715F9 /* ScrollViewPaging.swift */,
+				2BDDF3252C2E81D30054FD73 /* PhotoCarousel.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				2BD5AD2B2C2E6F9D006715F9 /* ScrollViewPaging.swift in Sources */,
 				2BDF94BF2C2D963600668514 /* MoonlitSwing.swift in Sources */,
 				2BDF94B12C2D962400668514 /* SwiftUIAnimationDemoApp.swift in Sources */,
+				2BDDF3262C2E81D30054FD73 /* PhotoCarousel.swift in Sources */,
 				2BD5AD232C2E28D3006715F9 /* ImageCarousel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
